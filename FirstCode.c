@@ -5,7 +5,8 @@
 
 int main()
 {
-	printf("First")
-		while(1){sleep}
-	return
+	printf("miao")
+	while(1)
+		sleep(1);
+	return;
 }
